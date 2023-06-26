@@ -1,0 +1,112 @@
+[33mcommit 1834b9149a7017930fa9dc592153c682582cd2de[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: lenof <lenof_@outlook.com>
+Date:   Sun Jun 25 10:16:21 2023 -0500
+
+    Animaciones añadidas:
+     - Impacto de proyectil (flechas, balas, piedras)
+     - Cañón
+     - Bola de cañón spawn
+     - Bola de cañón
+    
+    qa!
+    
+    !qa
+
+[33mcommit 338b246e346bfcdf6ded598faa427f3adaf82ed4[m
+Author: lenof <lenof_@outlook.com>
+Date:   Sun Jun 25 10:07:31 2023 -0500
+
+    Avances y modificaciones hechos:
+     - Palancas añadidas
+     - Antorchas añadidas (azules)
+     - Báculo modificado
+     - Batombom spawn añadido
+     - Batclaps spawn añadido
+     - Spawn murcielagos añadido
+     - Ácido añadido
+     - Puerta modificada
+    
+    qa!
+    
+    !qa
+
+[33mcommit 35ceff52109d9309670e607e761725a1738aa60f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: lenof <lenof_@outlook.com>
+Date:   Mon Jun 19 08:26:39 2023 -0500
+
+    Actualización en los tiles de piedra.
+    
+    - Queda pendiente añadir sombra a los murciélagos y hacerles animación
+      de muerte
+    - Hacer la orina de los murciélagos
+    - Modificar el diseño del Batombom
+    
+    qa!
+    
+    !qa
+
+[33mcommit 1bf0422a8f15bf0efc53d55d3a87871805405cf3[m
+Author: lenof <lenof_@outlook.com>
+Date:   Mon Jun 12 10:56:40 2023 -0500
+
+    Animaciones del báculo finalizadas
+
+[33mcommit 125235c1eaf00b85374bc4bf6013f713483cbece[m
+Author: lenof <lenof_@outlook.com>
+Date:   Sun Jun 11 17:07:28 2023 -0500
+
+    Actualización y avacnces del protagonista
+
+[33mcommit 53e1251ec845c2085b0278acf779353357a188e5[m
+Author: lenof <lenof_@outlook.com>
+Date:   Fri Jun 9 02:48:29 2023 -0500
+
+    Animaciones del prota actualizadas 90%
+
+[33mcommit 644a8bf48c0db0516e2d32b9e9742222c11425f5[m
+Author: lenof <lenof_@outlook.com>
+Date:   Thu Jun 8 15:50:22 2023 -0500
+
+    Animaciones de goblins terminadas
+
+[33mcommit 7754057b1c74d55a41480e7f9c57a55916283e17[m
+Author: lenof <lenof_@outlook.com>
+Date:   Thu Jun 8 05:36:46 2023 -0500
+
+    90% de animaciones del Goblin terminadas
+
+[33mcommit db8f39fa9f9b8bd94ce0bec8f4430747df5e542b[m
+Author: lenof <lenof_@outlook.com>
+Date:   Mon Jun 5 16:41:15 2023 -0500
+
+    Bat fly Fixed
+
+[33mcommit fea0b3b01589b467d55bf19e5ac2e5aeea1d29f5[m
+Author: lenof <lenof_@outlook.com>
+Date:   Mon Jun 5 06:22:07 2023 -0500
+
+    Actualizadas las animaciones de caminar del Goblin
+
+[33mcommit 0f0409307299b1ae3c45d19946e90fe311d151d0[m
+Author: lenof <lenof_@outlook.com>
+Date:   Mon Jun 5 05:58:54 2023 -0500
+
+    Añadido las animaciones del Big Goblin
+
+[33mcommit 7606ebea9428f463b2cacac934eef1f775885417[m
+Author: lenof <lenof_@outlook.com>
+Date:   Thu Jun 1 03:47:51 2023 -0500
+
+    Cambios en el idle y death del prota
+
+[33mcommit 463999740179cf546054300e1e82313d4096edb9[m
+Author: lenof <lenof_@outlook.com>
+Date:   Tue May 30 05:06:29 2023 -0500
+
+    Prota_Bloqueo v.1 añadido
+
+[33mcommit 15e51373d2d5b55b013a46ff0a92d72ac4436961[m
+Author: lenof <lenof_@outlook.com>
+Date:   Tue May 30 02:27:13 2023 -0500
+
+    primer commit - Arte 30/05/23
